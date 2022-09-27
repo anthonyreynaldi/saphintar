@@ -87,13 +87,30 @@
     <div class="container-fluid p-0" id="mf">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#fff" fill-opacity="1" d="M0,160L80,165.3C160,171,320,181,480,170.7C640,160,800,128,960,122.7C1120,117,1280,139,1360,149.3L1440,160L1440,0L1360,0C1280,0,1120,0,960,0C800,0,640,0,480,0C320,0,160,0,80,0L0,0Z"></path></svg>
         
-        <div class="row justify-content-end me-1">
-            <div class="col-sm-4 me-5 bg-dark text-white text-center rounded-5 opacity-75 p-4" data-aos="flip-down">
-                <h1 class="text-center mb-4" data-aos="zoom-in" data-aos-delay="500">Our Mission & Vision</h1>
+        <div class="row justify-content-center me-1">
+            <div class="col-sm-4 ms-3 bg-dark text-white text-center rounded-5 opacity-75 p-4" data-aos="flip-down">
+                <h1 class="text-center mb-4" data-aos="zoom-in" data-aos-delay="500">A Little Desription of saphintar</h1>
                 <h5 data-aos="zoom-in" data-aos-delay="1000">
-                    Our Mission is to make a better waste management through our product while also educating the users
+                    Saphintar is a smart trashbin equipped with an A.I Technology to help us sort out our waste and gives a better education about waste management.
                 </h5>
 
+            </div>
+        </div>
+
+        <div class="row mx-1">
+            <div class="col-sm-4  bg-dark text-white text-center rounded-5 opacity-75 p-4" data-aos="flip-down">
+                <h1 class="text-center mb-4" data-aos="zoom-in" data-aos-delay="500">Our Mission</h1>
+                <h5 data-aos="zoom-in" data-aos-delay="1000">
+                    Our Mission is to make a better waste management through our product while also educating the users.
+                </h5>
+
+            </div>
+            <div class="col-sm-4 ms-auto bg-dark text-white text-center rounded-5 opacity-75 p-4" data-aos="flip-down">
+                <h1 class="text-center mb-4" data-aos="zoom-in" data-aos-delay="500">Our Vision</h1>
+                <h5 data-aos="zoom-in" data-aos-delay="1000">
+                    Our Vision is to be aware dan care of our environment.
+                </h5>
+    
             </div>
         </div>
 
