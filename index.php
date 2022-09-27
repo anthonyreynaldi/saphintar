@@ -41,6 +41,7 @@
                     <a class="nav-link" href="#waste">Waste Categories</a>
                     <a class="nav-link" href="#feature">Feature</a>
                     <a class="nav-link" href="#contact">Contact</a>
+                    <a class="nav-link" href="#prototype">Product Prototype</a>
                 </div>
             </div>
         </div>
@@ -76,6 +77,7 @@
                 <a class="box curmudgeon font-weight-bolder text-decoration-none p-3 rounded-pill m-2" data-aos="fade-left" href="#waste">Waste Categories</a>
                 <a class="box curmudgeon font-weight-bolder text-decoration-none p-3 rounded-pill m-2" data-aos="fade-left" href="#features">Features</a>
                 <a class="box curmudgeon font-weight-bolder text-decoration-none p-3 rounded-pill m-2" data-aos="fade-left" href="#contact">Contact</a>
+                <a class="box curmudgeon font-weight-bolder text-decoration-none p-3 rounded-pill m-2" data-aos="fade-left" href="#prototype">Product Prototype</a>
             </div>
         </div>
     </div>
@@ -89,7 +91,7 @@
         
         <div class="row justify-content-center me-1">
             <div class="col-sm-4 ms-3 bg-dark text-white text-center rounded-5 opacity-75 p-4" data-aos="flip-down">
-                <h1 class="text-center mb-4" data-aos="zoom-in" data-aos-delay="500">A Little Desription of saphintar</h1>
+                <h1 class="text-center mb-4" data-aos="zoom-in" data-aos-delay="500">A Little Description of saphintar</h1>
                 <h5 data-aos="zoom-in" data-aos-delay="1000">
                     Saphintar is a smart trashbin equipped with an A.I Technology to help us sort out our waste and gives a better education about waste management.
                 </h5>
@@ -310,6 +312,12 @@
             </div>
         </div>
     </div>
+    <div style="height:300px;" id = "prototype"> 
+        <h1 class="text-center my-5">Product Prototype</h1>
+        <div class="h-50 d-flex justify-content-center">
+            <img src="img/proto.png" style="height : 350px;width:700px;" class="pb-5" alt="other">
+        </div>
+    </div>
     <footer id = "contact">
         <svg style="transform: translateY(5px);" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 317"><path fill="#212529" fill-opacity="1" d="M0,64L120,101.3C240,139,480,213,720,229.3C960,245,1200,203,1320,181.3L1440,160L1440,320L1320,320C1200,320,960,320,720,320C480,320,240,320,120,320L0,320Z"></path></svg>
 
@@ -333,6 +341,7 @@
                         <a class="text-decoration-none text-white p-3 m-2"href="#waste">Waste Categories</a>
                         <a class="text-decoration-none text-white p-3 m-2"href="#features">Features</a>
                         <a class="text-decoration-none text-white p-3 m-2"href="#contact">Contact</a>
+                        <a class="text-decoration-none text-white p-3 m-2"href="#prototype">Product Prototype</a>
                     </div>
                     
                 </div>
