@@ -259,10 +259,9 @@
                                 <div class="card__image">
                                     <img src="img/sorting.png" alt="Psyduck" />
                                 </div>
-                                <h4>Auto Sorting</h4>
+                                <h4>Easy Sorting</h4>
                                 <div class="card__description">
-                                    <p>Saphintar can help to sort the trash you're gonna throw. All you need to do is to
-                                        scan it and then throw it at the right place</p>
+                                    <p>saphintar will scan the waste and open up a bin according to its category</p>
                                 </div>
                             </div>
                         </div>
