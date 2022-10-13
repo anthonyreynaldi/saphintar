@@ -21,6 +21,9 @@
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 
     <style>
+        body{
+            overflow-x:hidden;
+        }
         .titles {
             color: #7ebd4a;
         }
@@ -62,8 +65,8 @@
                     <br>
                     <a class="box curmudgeon font-weight-bolder text-decoration-none p-3 rounded-pill m-2" href="#mf">Find Out More About Saphintar</a>
                 </div>
-                <div class="col-sm-4 text-center m-auto">
-                    <img src="img/logo/logo-black.png" class="img-fluid" alt="saphintar">
+                <div class="col-sm-4 text-center m-auto my-5">
+                    <img src="img/proto2-.png" class="img-fluid" alt="saphintar">
                 </div>
             </div>
         </div>
@@ -318,8 +321,23 @@
     </div>
     <div style="height:300px;" id = "prototype"> 
         <h1 class="text-center my-5 titles">Product Prototype</h1>
-        <div class="h-50 d-flex justify-content-center">
-            <img src="img/proto.png" style="height : 350px;width:700px;" class="pb-5" alt="other">
+        <div class="row">
+            <div class="col-sm-4">
+                <div class="h-50">
+                    <img src="img/proto1.jpg" style="height : 350px;object-position: 75px;" class="pb-5" alt="other">
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="h-50">
+                    
+                    <img src="img/proto3-.png" style="height : 350px;object-fit:none;object-position:top;" class="pb-5" alt="other">
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="h-50">
+                    <img src="img/proto4-.png" style="height : 350px;object-fit:none;object-position:right;" class="pb-5" alt="other">
+                </div>
+            </div>
         </div>
     </div>
     <footer id = "contact">
