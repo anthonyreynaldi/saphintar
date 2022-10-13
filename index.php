@@ -324,7 +324,7 @@
         <div class="row">
             <div class="col-sm-4">
                 <div class="h-50">
-                    <img src="img/proto1.jpg" style="height : 350px;object-position: 75px;" class="pb-5" alt="other">
+                    <img src="img/proto1-.png" style="height : 350px;object-position: 75px;" class="pb-5" alt="other">
                 </div>
             </div>
             <div class="col-sm-4">
