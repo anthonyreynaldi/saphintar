@@ -20,7 +20,11 @@
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 
-
+    <style>
+        .titles {
+            color: #7ebd4a;
+        }
+    </style>
     <!-- <link href="https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css" rel="stylesheet" /> -->
 </head>
 
@@ -91,7 +95,7 @@
         
         <div class="row justify-content-center me-1">
             <div class="col-sm-4 ms-3 bg-dark text-white text-center rounded-5 opacity-75 p-4" data-aos="flip-down">
-                <h1 class="text-center mb-4" data-aos="zoom-in" data-aos-delay="500">A Little Description of saphintar</h1>
+                <h1 class="text-center mb-4 titles" data-aos="zoom-in" data-aos-delay="500">A Little Description of saphintar</h1>
                 <h5 data-aos="zoom-in" data-aos-delay="1000">
                     Saphintar is a smart trashbin equipped with an A.I Technology to help us sort out our waste and gives a better education about waste management.
                 </h5>
@@ -101,14 +105,14 @@
 
         <div class="row mx-1">
             <div class="col-sm-4  bg-dark text-white text-center rounded-5 opacity-75 p-4" data-aos="flip-down">
-                <h1 class="text-center mb-4" data-aos="zoom-in" data-aos-delay="500">Our Mission</h1>
+                <h1 class="text-center mb-4 titles" data-aos="zoom-in" data-aos-delay="500">Our Mission</h1>
                 <h5 data-aos="zoom-in" data-aos-delay="1000">
                     Our Mission is to make a better waste management through our product while also educating the users.
                 </h5>
 
             </div>
             <div class="col-sm-4 ms-auto bg-dark text-white text-center rounded-5 opacity-75 p-4" data-aos="flip-down">
-                <h1 class="text-center mb-4" data-aos="zoom-in" data-aos-delay="500">Our Vision</h1>
+                <h1 class="text-center mb-4 titles" data-aos="zoom-in" data-aos-delay="500">Our Vision</h1>
                 <h5 data-aos="zoom-in" data-aos-delay="1000">
                     Our Vision is to be aware dan care of our environment.
                 </h5>
@@ -119,8 +123,8 @@
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#fff" fill-opacity="1" d="M0,256L80,266.7C160,277,320,299,480,298.7C640,299,800,277,960,261.3C1120,245,1280,235,1360,229.3L1440,224L1440,320L1360,320C1280,320,1120,320,960,320C800,320,640,320,480,320C320,320,160,320,80,320L0,320Z"></path></svg>
     </div>
 
-    <h1 class="text-center my-5" data-aos="zoom-in" id = "waste">Waste Categories</h1>
-
+    <h1 class="text-center mt-5 titles" data-aos="zoom-in" id = "waste">Waste Categories</h1>
+    <h5 class="text-center my-5" data-aos="zoom-in">There are 4 types of wastes that Saphintar can recognize:</h5>
     <!-- type for desktop -->
     <div class="container d-lg-block d-none">
         <div class="row row-cols-1 row-cols-md-4 g-4">
@@ -237,7 +241,8 @@
 
     <div style="height: 50px"></div>
     <div class="specification bg-cust-yellow pt-5" id = "features">
-        <h1 class="text-center" data-aos="zoom-in">Our Features</h1>
+        <h1 class="text-center titles" data-aos="zoom-in">Our Features</h1>
+        <h5 class="text-center mt-3 data-aos="zoom-in">Saphintar Have some features that might help you with organizing your wastes:</h5>
         <div class="carousel__wrapper" data-aos="zoom-in">
             <div>
                 <div class="carousel__content">
@@ -312,7 +317,7 @@
         </div>
     </div>
     <div style="height:300px;" id = "prototype"> 
-        <h1 class="text-center my-5">Product Prototype</h1>
+        <h1 class="text-center my-5 titles">Product Prototype</h1>
         <div class="h-50 d-flex justify-content-center">
             <img src="img/proto.png" style="height : 350px;width:700px;" class="pb-5" alt="other">
         </div>
@@ -326,7 +331,8 @@
                     <img src="img/logo/logo-white.png" class="img-fluid" alt="saphintar">
                 </div>
                 <div class="col-sm-8 text-center m-auto">
-                    <h3 class="my-5">CONTACT US</h3>
+                    <h3 class="my-4 titles">CONTACT US</h3>
+                    <h5 class="mb-4">If you have any questions or interested in our product please feel free to contact us via this way</h5>
                     <a class="text-decoration-none mx-3 p-3 text-center text-white "  href="https://www.instagram.com/saphintar/" target="_blank">
                         <i class="bi bi-envelope-fill" style="font-size: 30px"></i>
                     </a>
